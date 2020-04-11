@@ -1,0 +1,4 @@
+#Wed Apr 08 16:19:33 BRT 2020
+base.0=/home/bruno/Área de Trabalho/lista_de_tarefa/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
